@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/book">
+        <file>book (1).jpg</file>
+    </qresource>
+    <qresource prefix="/odunc_1">
+        <file>odunc_1.jpg</file>
+    </qresource>
+    <qresource prefix="/odunc_2">
+        <file>odunc_2.jpg</file>
+    </qresource>
+    <qresource prefix="/user">
+        <file>user.jpg</file>
+    </qresource>
+</RCC>
